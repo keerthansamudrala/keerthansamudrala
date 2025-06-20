@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keerthansamudrala
-- 👀 I’m  currently interested in web development
+- 👀 I’m  currently interested in Full stack development
 - 🌱 I’m currently learning development & DSA
 - 💞️ I’m looking to collaborate on web projects ideas and to build it 
 - 📫 reach me through https://wa.me/qr/4QAI3SM5CTZQI1
