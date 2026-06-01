@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @keerthansamudrala
-- 👀 I’m  currently interested in Full stack development
-- 🌱 I’m currently learning development & DSA
-- 💞️ I’m looking to collaborate on web projects ideas and to build it 
-- 📫 reach me through https://wa.me/qr/4QAI3SM5CTZQI1
-- ⚡ Fun fact: i can swim
+<div align="center">
+  <h1>Keerthan Samudrala | Java Engineer</h1>
+  <p><strong>Full-stack developer with a heavy obsession for the Java ecosystem and modern DevOps</strong></p>
+</div>
 
-<!---
-keerthansamudrala/keerthansamudrala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr />
+
+<h3>🛠️ My Toolkit</h3>
+
+<ul>
+  <li><strong>Backend:</strong> Java • Spring Boot • Spring Security • Spring AI • Microservices • Kafka • REST APIs</li>
+  <li><strong>Data:</strong> JDBC • Hibernate • MongoDB</li>
+  <li><strong>CI/CD & Cloud:</strong> Docker • Jenkins • Ansible • Terraform • Linux • Cloud Deployment</li>
+  <li><strong>Foundations:</strong> DSA • Maven • Gradle • JUnit • Git • JWT • OAuth2</li>
+</ul>
