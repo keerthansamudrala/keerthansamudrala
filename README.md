@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Keerthan Samudrala | Java Engineer</h1>
+  <h1>Keerthan Samudrala | Java Developer</h1>
   <p><strong>Full-stack developer with a heavy obsession for the Java ecosystem and modern DevOps</strong></p>
 </div>
 
